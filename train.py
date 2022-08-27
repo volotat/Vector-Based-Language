@@ -1,7 +1,3 @@
-
-
-from copyreg import constructor
-from genericpath import isdir
 import tensorflow as tf
 import numpy as np
 import os
