@@ -1,7 +1,7 @@
 tfhub-models/
 train_process/
 decoder.h5
-generator.h5
-vision.h5
-history.csv
-statistic.csv
+/generator.h5
+/vision.h5
+/history.csv
+/statistic.csv
