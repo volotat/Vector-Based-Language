@@ -1,0 +1,8 @@
+nltk==3.7
+numpy==1.22.3
+opencv_python==4.5.5.64
+pandas==1.2.4
+Pillow==9.2.0
+tensorflow==2.9.1
+tensorflow_addons==0.17.1
+tensorflow_hub==0.12.0
