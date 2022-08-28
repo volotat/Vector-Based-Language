@@ -8,6 +8,9 @@ To generate new language use following command:
 
 This will produce generator.h5 that could be used in visualization purposes. This script also downloads Universal Sentence Encoder into 'tfhub-models' folder and generates vision.h5 and decoder.h5 that required to continue the training process. You can also use pretrained models available in 'article' folder to produce the exact results presented in the article.  
 
+To check the reconstruction rate use the following command:  
+```python3 metric.py``` 
+
 To generate image with visualization of one or more sentences use the following command:  
 ```python3 utils.py -t "sentence one" "sentence two" "and so on..." -o output.png -spl 3```
 
