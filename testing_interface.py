@@ -15,7 +15,7 @@ import os
 I_SZ = 128
 R_SZ = 512
 
-need_total_ans = 10
+need_total_ans = 100
 total_ans = 0
 correct_ans = 0
 
