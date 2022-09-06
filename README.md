@@ -1,6 +1,6 @@
 # Vector-Based-Language
 
-This repository contains source code for my article "Can humans speak the language of the machines?" that is available here: [to be published soon]
+This repository contains source code for my article "Can humans speak the language of the machines?" that is available here: https://medium.com/deelvin-machine-learning/can-humans-speak-the-language-of-machines-7c92159e9c90
 
 
 To generate new language use following command:  
